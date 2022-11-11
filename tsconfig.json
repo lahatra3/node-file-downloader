@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "dist",
+        "target": "es2017",
+        "module": "Node16",
+        "strict": true,
+        "declaration": true,
+        "declarationDir": "types",
+        "declarationMap": true,
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "moduleResolution": "Node"
+    }
+}
